@@ -14,7 +14,7 @@ import (
 	"github.com/fastygo/framework/pkg/web/locale"
 	"github.com/fastygo/framework/pkg/web/security"
 
-	pwafeature "github.com/fastygo/framework/examples/pwa/internal/site/pwa"
+	pwafeature "github.com/fastygo/tasks/internal/site/pwa"
 )
 
 func main() {

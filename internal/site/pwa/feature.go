@@ -16,8 +16,8 @@ import (
 	"github.com/fastygo/framework/pkg/web/locale"
 	"github.com/fastygo/framework/pkg/web/view"
 
-	pwasti18n "github.com/fastygo/framework/examples/pwa/internal/site/i18n"
-	"github.com/fastygo/framework/examples/pwa/internal/site/views"
+	pwasti18n "github.com/fastygo/tasks/internal/site/i18n"
+	"github.com/fastygo/tasks/internal/site/views"
 )
 
 const (
